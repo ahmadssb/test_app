@@ -4,10 +4,10 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.ahmadssb.pg"
-        version   = "1.0.0">
-  <name>Testing PhoneGap</name>
-  <description>This is a Testing PhoneGap.</description>
-  <author href="http://phonegap.com" email="support@phonegap.com">ahmadssb</author>
+        version   = "2.0.0">
+  <name>Testing PhoneGap Pait</name>
+  <description>This is a Testing PhoneGap Paint.</description>
+  <author href="http://ahmadssb.com" email="ahmad@ahmadssb.com">ahmadssb</author>
   
   <!--
         If you do not want any permissions to be added to your app, add the
