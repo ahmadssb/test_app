@@ -4,7 +4,7 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.ahmadssb.pg"
-        version   = "2.0.0">
+        version   = "2.0.1">
   <name>Testing PhoneGap Pait</name>
   <description>This is a Testing PhoneGap Paint.</description>
   <author href="http://ahmadssb.com" email="ahmad@ahmadssb.com">ahmadssb</author>
